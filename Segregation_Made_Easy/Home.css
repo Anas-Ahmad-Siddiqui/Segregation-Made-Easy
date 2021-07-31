@@ -1,0 +1,220 @@
+.u-section-1 {
+  background-image: url("images/ayoola-salako-ixCWR36ON3I-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 691px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 1220px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 691px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 26px 40px 0 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 821px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 0 30px 30px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 424px;
+  height: 424px;
+  margin: 8px -58px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+  margin: -326px 71px 0 141px;
+}
+
+.u-section-1 .u-line-1 {
+  width: 111px;
+  height: 6px;
+  transform-origin: left center 0px;
+  margin: -146px 71px 0 auto;
+}
+
+.u-section-1 .u-group-1 {
+  width: 496px;
+  min-height: 90px;
+  margin: 239px 71px 0 auto;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding-left: 0;
+  padding-right: 4px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 600;
+  font-size: 1rem;
+  font-style: normal;
+  line-height: 1.8;
+  margin: 0 4px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 3px;
+  font-size: 1.25rem;
+  border-style: none;
+  text-transform: uppercase;
+  background-image: none;
+  font-family: "Fjalla One";
+  font-weight: 400;
+  margin: 141px 71px 0 auto;
+  padding: 10px 52px 10px 50px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 452px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 573px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    background-position: 92.74% 50%;
+    min-height: 668px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 52px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 471px;
+    margin-top: 173px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 163px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 263px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 439px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 60px 20px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    background-position: 87% 50%;
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 384px;
+    margin-top: 171px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 127px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 519px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 706px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 75px;
+    padding-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    background-position: 74.09% 50%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 319px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 445px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 26px;
+    padding-right: 65px;
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -242px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+}
